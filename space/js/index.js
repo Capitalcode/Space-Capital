@@ -30,3 +30,8 @@ function load() {
   }
 
 load();
+
+function teste(){
+  alert("Capital Code");
+}
+
