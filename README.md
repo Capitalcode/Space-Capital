@@ -1,5 +1,5 @@
 
-![CAPITAL CODE-LOGO](http://capitalcode.com.br/spacecapital.jpg)
+![CAPITAL CODE-LOGO](https://imgur.com/a/JWjTew1)
 
 # [Capital Code](http://capitalcode.com.br)- Space Capital, conheça os planetas de uma forma diferente! #
 
